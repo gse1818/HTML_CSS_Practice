@@ -1,3 +1,103 @@
 h1 {
   font-weight: bold;
 }
+
+li {
+  list-style-type: none;
+}
+
+.header {
+  height: 40px;
+  max-width: 75rem;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: normal;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.header .left_header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.categories {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  gap: 2rem;
+}
+
+.logo {
+  height: 40px;
+  width: 65px;
+  margin-left: 0.4rem;
+  margin-right: 3rem;
+  margin-bottom: 0.4rem;
+  padding-right: 0;
+}
+
+.header_nav {
+  margin-left: 0;
+  padding-left: 0;
+  width: 100%;
+}
+
+.list_element {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.header .right_header {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.8rem;
+  margin: 2rem 0.8rem;
+}
+
+.search_form {
+  height: 100%;
+}
+
+.search_input {
+  background-color: #f2f3f6;
+  color: #212124;
+  box-sizing: border-box;
+  border: none;
+  height: 100%;
+  width: 18rem;
+  border-radius: 4px;
+  padding: 0.9rem;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.button {
+  height: 100%;
+  width: 90px;
+  line-height: 1.3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -2%;
+  display: block;
+  white-space: nowrap;
+  background-color: #ffffff;
+  color: #212124;
+  padding: 8px 16px;
+  border: 1px solid #d1d3d8;
+  border-radius: 4px;
+}
