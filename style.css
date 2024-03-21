@@ -499,7 +499,7 @@ footer .low_footer a {
   text-decoration: none;
 }
 
-footer .low_footer a:hover {
+footer a:hover {
   text-decoration: underline;
 }
 /* footer end */
