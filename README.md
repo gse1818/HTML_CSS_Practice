@@ -18,3 +18,5 @@
 <span style="color: #DC6089">\<Footer\></span> 이은재
 
 ## 웹사이트 사진
+<img src = "./samples/123.PNG" alt = "메인페이지">
+<img src = "./samples/456.PNG" alt = "Footer">
