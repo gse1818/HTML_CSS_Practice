@@ -18,3 +18,10 @@
 <span style="color: #DC6089">\<Footer\></span> 이은재
 
 ## 웹사이트 사진
+
+<img src='./images/page_screenshot1.png'>
+<img src='./images/page_screenshot2.png'>
+<img src='./images/page_screenshot3.png'>
+<img src='./images/page_screenshot4.png'>
+<img src='./images/page_screenshot5.png'>
+<img src='./images/page_screenshot6.png'>
